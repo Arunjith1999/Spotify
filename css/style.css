@@ -1,0 +1,360 @@
+body{
+    margin:0;
+}
+
+.header{
+    background-color: black;
+    width:100%;
+    height:82px;
+
+}
+
+.logo{
+    width: 129px;
+    background-color:black;
+    position: absolute;
+    left: 187px;
+    top: 21px;
+}
+.pre{
+    position: absolute;
+    left: 855px;
+    top: 17px;
+    
+   
+}
+.common{
+    color:white;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: .3s;
+
+}
+.common:hover{
+    color:#1ed760;
+}
+.Sup{
+    position: absolute;
+    left: 962px;
+    top: 17px;
+}
+
+
+.Dow{
+    position: absolute;
+    left: 1061px;
+    top: 17px;
+}
+
+    
+.slash{
+    position: absolute;
+    left: 1174px;
+    top: 5px;
+    font-size: 23px;
+
+color:white;
+
+}
+.sign{
+    position: absolute;
+    left: 1218px;
+    top: 17px;
+   
+}
+
+
+.log{
+    position: absolute;
+    left: 1310px;
+    top: 17px;
+    
+}
+.body1{
+    width: 100%;
+    height: 595px;
+}
+.maintext{
+    position: absolute;
+    top: 202px;
+    right: 256px;
+    font-size: 62px;
+    font-weight: 700;
+    font-family: sans-serif;
+    letter-spacing: -1.9px;
+    color: white;
+}
+.button{
+    position: absolute;
+    bottom: 260px;
+    left: 659px;
+    border-radius: 39px;
+    height: 50px;
+    width: 188px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 0;
+}
+
+.button:hover{
+    transform: scale(1.05);
+    transition: .1s;
+   
+}
+.subtext{
+
+    left: 648px;
+    position: absolute;
+    top: 709px;
+    font-size: 42px;
+    font-weight: 700;
+    font-family: sans-serif;
+    letter-spacing: 0.1px;
+}
+
+.play{
+    left: 247px;
+  
+    position: absolute;
+    bottom: -286px;
+   
+}
+.common2{
+    height: 148px;
+    width:147;
+}
+.playlist{
+    position: relative;
+    left: 528px;
+    bottom: -202px;
+}
+.love{
+    position: absolute;
+    left: 798px;
+    bottom: -285px;
+}
+.data{
+    position: absolute;
+    left: 1066px;
+    bottom: -285px;
+}
+.para1{
+   
+    position: absolute;
+    bottom: -453px;
+    left: 218px;
+    font-size: 15px;
+   
+}
+.subhead1{
+    position: absolute;
+    bottom: -386px;
+    left: 240px;
+   
+}
+.similar{
+    font-size: 21px;
+    font-weight: bold;
+    font-family: system-ui; 
+}
+.common3{
+    text-align: center;
+    font-family: sans-serif;
+    
+
+}
+.subhead2{
+    position: absolute;
+    left: 517px;
+    bottom: -384px;
+}
+.para2{
+    position: absolute;
+    left: 500px;
+    bottom: -457px;
+}
+.subhead3{
+    position: absolute;
+    left: 812px;
+    bottom: -382px;
+}
+.para3{
+    position: absolute;
+    left: 782px;
+    bottom: -438px;
+}.subhead4{
+    position: absolute;
+    left: 1064px;
+    bottom: -379px;
+
+}
+.para4{
+    position: absolute;
+    left: 1048px;
+    bottom: -457px;
+}
+.section2{
+    margin-top: 429px;
+    width: 100%;
+    height: 483px;
+}
+.sectiontext{
+    text-align: center;
+    position: relative;
+    bottom: 323px;
+    font-size: 44px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: #fff;
+}
+.qn{
+    position: absolute;
+    bottom: -1156px;
+    left: 612px;
+    font-size: 37px;
+    font-family: sans-serif;
+    font-weight: 800;
+
+}
+.arrow1{  
+    position: absolute;
+    top: 1965px;
+}
+    
+
+.qn1{
+   
+    position: absolute;
+    top: 1952px;
+}
+
+  
+
+.same{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 800;
+    cursor: pointer;
+    margin-left: 260px;
+   
+}
+.same:hover{
+    text-decoration: underline;
+}
+.arsame{
+    width: 14px;
+    margin-left: 1298px;
+}
+.qn2{
+    position: absolute;
+    top: 2012px;
+}
+
+.arrow2{
+    position: absolute;
+    top: 2034px;
+}
+.qn3{
+   
+    position: absolute;
+    top: 2076px;
+}
+.arrow3{
+    position: absolute;
+    top: 2098px;
+}
+
+
+.qn4{
+    position: absolute;
+    top: 2141px;
+
+}
+.arrow4{
+    position: absolute;
+    top: 2167px;
+}
+.midback{
+    width: 100%;
+    position: absolute;
+    height: 452px;
+    padding-top: 321px;
+}
+.midtext{
+
+    position: absolute;
+    top: 2362px;
+    left: 440px;
+    font-size: 80px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: white;
+    letter-spacing: -.03em;
+
+}
+.button2{
+    
+    position: absolute;
+    top: 2578px;
+    left: 680px;
+    border-radius: 33px;
+    height: 52px;
+    width: 190px;
+    border: 0px;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.button2:hover{
+    transform: scale(1.05);
+    transition: .1s;
+}
+.div{
+   
+    position: absolute;
+    width: 100%;
+    height: 72%;
+    background-color: black;
+    margin-top: 48%;
+
+}
+.logo2{
+    width: 129px;
+    background-color: black;
+    position: absolute;
+    left: 187px;
+    top: 87px;
+}
+.footer-table{
+    position: absolute;
+    left: 24%;
+    bottom: 31%;
+    color: white;
+
+}
+.td-col{
+  width:200px;
+  height:43px;
+}
+.td-col:hover{
+    color:greenyellow;
+}
+
+
+.th-col{
+    font-size: 13px;
+    font-weight: 700;
+    font-family: system-ui;
+    letter-spacing: 1.5px;
+    color: grey;
+    text-align: left;
+    line-height: 4.5;
+}
+
+
+
+
+
